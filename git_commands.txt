@@ -1,0 +1,9 @@
+git status                                                                                                      
+git add .                                                                                                       
+git status                                                                                                      
+git rm --cached                                                                                                 
+git rm --cached testing.py                                                                                      
+git status                                                                                                      
+git add .                                                                                                       
+git commit -m"First PY File "                                                                                   
+git status    
